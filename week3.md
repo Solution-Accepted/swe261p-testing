@@ -1,6 +1,14 @@
 # Week 3
 
+## Info
+
 Due: **Week 5, Wed. Feb. 5**
+
+Authors:
+
+- Junxian Chen
+- Wen Chia Yang
+- Zihua Weng
 
 ## Content
 
