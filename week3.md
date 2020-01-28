@@ -14,6 +14,9 @@ Authors:
 
 1. Fork your project into GitHub. Add all your team members to the forked project, add Prof. Jones and TA Maruf as collaborators.
 
+    - [Prof. Jones](https://github.com/jajones)
+    - [TA Maruf](https://github.com/marufzaber)
+
 2. Introduction. What is the tool that you are testing? What is its purpose? Any other aspects that are relevant: size in terms of LOC, languages that it is written in, etc.
 
     - What is the tool that you are testing:
